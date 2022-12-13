@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir":"./dist", // it will be to push the js code transpiled
+        "module":"CommonJS", // generate code with the format common
+        "target":"ES2019",
+        "esModuleInterop": true,
+        "allowJs": true,
+    }
+}
